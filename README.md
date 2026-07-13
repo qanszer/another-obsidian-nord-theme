@@ -1,7 +1,9 @@
 
 # Another Nord Theme for Obsidian
 
-This is another [Nord](https://github.com/arcticicestudio/nord) theme for [Obsidian](https://obsidian.md), based on [Insanum's original work](https://github.com/insanum/obsidian_nord). Apply a Nord-inspired color scheme with cool blue-gray tones and gentle contrast. Maintain readable syntax highlighting and subtle UI accents across panes for a calm, focused writing environment.
+This is another [Nord](https://github.com/arcticicestudio/nord) theme for [Obsidian](https://obsidian.md), based on [Insanum's original work](https://github.com/insanum/obsidian_nord). 
+
+Apply a Nord-inspired color scheme with cool blue-gray tones and gentle contrast. Maintain readable syntax highlighting and subtle UI accents across panes for a calm, focused writing environment.
 
 ## Preview
 
